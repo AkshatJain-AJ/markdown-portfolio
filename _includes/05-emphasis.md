@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Programming languages - Python, Java, JS, TS, Solidity*
+<!---_Programming languages - Python, Java, JS, TS, Solidity_-->
+
+**Technologies - Blockchain, Angular, Front-End**
+<!---__Technologies - Blockchain, Angular, Front-End__-->
+
+_Want career in **Blockchain**_
